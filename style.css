@@ -126,3 +126,7 @@ svg {
 .alighn p {
     margin-left: 10px;
 }
+.attribution {
+    position: absolute;
+    bottom: 10px
+}
