@@ -18,7 +18,7 @@ body {
     flex-direction: column;
     background: hsl(216, 50%, 16%);
     width: 320px;
-    border-radius: 20px;
+    border-radius: 15px;
     position: relative;
 }
 main > div > img {
