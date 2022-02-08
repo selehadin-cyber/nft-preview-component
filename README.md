@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/selehadin-cyber/nft-preview-component)
-- Live Site URL: [Add live site URL here](https://selehadin-cyber.github.io/nft-preview-component/)
+- Solution URL: [https://github.com/selehadin-cyber/nft-preview-component](https://github.com/selehadin-cyber/nft-preview-component)
+- Live Site URL: [https://selehadin-cyber.github.io/nft-preview-component/](https://selehadin-cyber.github.io/nft-preview-component/)
 
 
 ### Built with
@@ -45,8 +45,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.selehadin.xyz)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/selehadin-cyber)
+- Website - [www.selehadin.xyz](https://www.selehadin.xyz)
+- Frontend Mentor - [@selehadin-cyber](https://www.frontendmentor.io/profile/selehadin-cyber)
 
 
 
